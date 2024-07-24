@@ -17,3 +17,4 @@ This is a simple C++ console application for managing users and their friendship
 - **Display All Users**: List all users with their usernames and full names.
 - **Display All Friendships**: Show all friendships between users.
 - **Display Mutual Friends**: Identify mutual friends between two specified users.
+- **Messages / Group Messages**Now you can send messages in person to person or in group chat.
